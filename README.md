@@ -9,7 +9,7 @@ A super minimal dashboard which lists each available site for all parked paths a
 ## Installation
 
 1. Clone or download the repo into a directory of your choosing  
-E.g. `git clone https://github.com/aaemnnosttv/valet-dashboard.git dashboard`
+E.g. `git clone https://github.com/madsem/valet-dashboard.git`
 1. Move the new directory into a Valet-parked path or run `valet link` within it
 1. Run `valet open` from within the directory!
 
